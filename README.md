@@ -1,3 +1,3 @@
 # My React Apps
 
-All React Native apps that I made
+All React Native apps that I had made
